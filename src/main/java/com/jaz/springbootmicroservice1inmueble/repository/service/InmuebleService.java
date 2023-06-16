@@ -1,4 +1,4 @@
-package com.jaz.springbootmicroservice1inmueble.service;
+package com.jaz.springbootmicroservice1inmueble.repository.service;
 
 
 import com.jaz.springbootmicroservice1inmueble.model.Inmueble;

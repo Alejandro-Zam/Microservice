@@ -1,7 +1,7 @@
 package com.jaz.springbootmicroservice1inmueble.controller;
 
 import com.jaz.springbootmicroservice1inmueble.model.Inmueble;
-import com.jaz.springbootmicroservice1inmueble.service.InmuebleService;
+import com.jaz.springbootmicroservice1inmueble.repository.service.InmuebleService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
